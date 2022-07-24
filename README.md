@@ -3,6 +3,8 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+https://dev.azure.com/FareesDeveloper/Github%20Integration%20Alpha/_apis/build/status/Fariz-fx.calculator?branchName=master
+
 [![Build Status](https://dev.azure.com/FareesDeveloper/Github%20Integration%20Alpha/_apis/build/status/Fariz-fx.calculator?branchName=master)](https://dev.azure.com/FareesDeveloper/Github%20Integration%20Alpha/_build/latest?definitionId=29&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
